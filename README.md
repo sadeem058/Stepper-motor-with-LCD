@@ -76,7 +76,7 @@ The LCD shows the current command (Forward, Backward, Right, Left, or Stop) duri
 
 ## Code
 
-'''
+```
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
@@ -175,7 +175,7 @@ void loop() {
 
   while (1);
 }
-'''
+```
 
 ## Explanation
 
